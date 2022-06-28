@@ -8,7 +8,6 @@ In the Resources folder, you'll find:
   I. Casualties </br>
   II. Vaccinated </br>
   III. Common Table </br>
-3. Presentation (pptx)
 
 </br></br>
 
