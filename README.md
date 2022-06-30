@@ -1,6 +1,6 @@
 # COVID-19_PowerBI-DashBoard
 
-Hey there, welcome! Here you'll find all the resources used to create a DashBoard in Power BI. [Video Analysis]() will uploaded here soon. </br>
+Hey there, welcome! Here you'll find all the resources used to create a DashBoard in Power BI. </br> Click for the --> [Video Analysis](https://youtu.be/Qe4CYp5M0Go) </br></br></br>
 In the Resources folder, you'll find:
 
 1. Covid Impact (pbix file)
